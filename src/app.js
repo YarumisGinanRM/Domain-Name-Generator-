@@ -13,7 +13,6 @@ window.onload = function() {
   let adj = ['great', 'big' ];
   let noun = ['jogger','racoon'];
 
-  function domain (){
      pronoun.forEach(elementPronoun => {
       adj.forEach(elementAdj => {
         noun.forEach(elementNoun => {
@@ -21,7 +20,5 @@ window.onload = function() {
   
       });
     });
-    
   }); 
-}
 };
