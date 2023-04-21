@@ -1,4 +1,4 @@
-# Hello World with Vanilla JS
+n# Hello World with Vanilla JS
 
 Start coding a JS/HTML/CSS website in 30 seconds by opening this template in codespaces (coming soon) or [gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git).
 
